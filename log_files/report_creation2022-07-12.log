@@ -1,0 +1,87 @@
+2022-07-12 22:12:46,719 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:12:46,719 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:12:46,884 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:16:49,410 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:16:49,411 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:16:49,431 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:18:34,181 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:18:34,183 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:18:34,202 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:19:34,433 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:20:09,985 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:20:12,896 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:20:15,545 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:20:48,378 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:20:48,419 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-12 22:21:52,291 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:21:53,513 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:21:54,002 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:22:48,168 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-12 22:23:18,841 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:23:18,843 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:23:18,872 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-12 22:23:47,311 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:23:47,313 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:23:47,331 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-12 22:25:11,092 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:25:11,094 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:25:11,136 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-12 22:28:53,207 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:28:53,208 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:28:53,244 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-12 22:28:53,261 {'message': 'Convert DataFrame to PDF'}
+2022-07-12 22:29:56,356 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:29:56,357 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:29:56,375 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-12 22:29:56,392 {'message': 'Convert DataFrame to PDF'}
+2022-07-12 22:29:57,324 {'message': 'Sucessfully Saved one day pdf '}
+2022-07-12 22:30:22,408 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-12 22:30:22,408 {'message': 'One day Data Fetch from DataBase'}
+2022-07-12 22:30:22,453 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-12 22:30:22,509 {'message': 'Convert DataFrame to PDF'}
+2022-07-12 22:30:24,287 {'message': 'Sucessfully Saved one day pdf '}
+2022-07-13 12:59:39,698 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 12:59:45,113 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 12:59:57,789 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:00:49,778 Message:No info fetched, Status Code: 400, Function Name: fetch_details
+2022-07-13 13:01:06,768 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:01:13,018 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:05:12,217 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:05:18,527 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:05:56,671 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:06:02,664 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:11,811 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:12,766 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:13,220 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:13,470 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:13,657 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:13,841 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:14,002 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:14,190 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:14,308 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:14,505 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:14,682 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:14,833 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:15,028 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:15,330 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:15,520 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:15,705 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:12:15,893 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:19:41,103 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:19:48,174 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:25:26,147 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-13 13:25:26,148 {'message': 'One day Data Fetch from DataBase'}
+2022-07-13 13:25:26,169 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:25:26,180 {'message': 'Convert DataFrame to PDF'}
+2022-07-13 13:25:27,104 {'message': 'Sucessfully Saved one day pdf '}
+2022-07-13 13:35:21,236 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-13 13:35:21,238 {'message': 'One day Data Fetch from DataBase'}
+2022-07-13 13:35:21,251 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:35:21,258 {'message': 'Convert DataFrame to PDF'}
+2022-07-13 13:35:22,196 {'message': 'Sucessfully Saved one day pdf '}
+2022-07-13 13:35:39,258 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
+2022-07-13 13:35:39,260 {'message': 'One day Data Fetch from DataBase'}
+2022-07-13 13:35:39,276 Message:fetched_data, Status Code: 200, Function Name: fetch_details
+2022-07-13 13:35:39,290 {'message': 'Convert DataFrame to PDF'}
+2022-07-13 13:35:39,442 {'message': 'Sucessfully Saved one day pdf '}
+2022-07-13 16:08:31,731 Message:Engine Created, Status Code: 200, Function Name: connect_with_sql
